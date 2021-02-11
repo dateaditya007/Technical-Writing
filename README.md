@@ -1,1 +1,1 @@
-# techicalwriting
+# technicalwriting
