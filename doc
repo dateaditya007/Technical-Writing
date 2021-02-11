@@ -1,0 +1,22 @@
+To begin with, a little introduction to the ATM machine. It is almost a life-size machine with the ability to accept input from individuals who wish to operate it for financial transactions. To accept input such as security passwords or passcodes, it is configured with a numeric keypad. To validate the inputs and operate the machine it has a screen with some supporting buttons that represent an individual functionality to help make choices associated with banking operations that are displayed on the screen, it’s like the process of obtaining your money without physically going into a financial institution. Button 1 equals Select/OK, Button 2 equals Clear, and Button 3 equals Cancel Transaction. The machine also has a ‘Touch screen’ feature which allows you to make your selections by directly tapping on the corresponding option thereby confirming your choice. The ATM allows you to perform transactions basis your banking assets; such as your account number and password, credit card, debit card, etc. 
+
+I hope the above brief provides you a basic understanding of what an ATM machine is, what are its capabilities, and general use case. Now allow me to instruct you to operate the machine so that I can obtain some money from my account. Kindly follow these steps:
+
+-	The machine would have a welcome screen with a logo of the XXXX Bank, please tap the screen once to get past the welcome screen
+-	Operational screen: The screen has some options like:
+-	Cash Withdrawal
+-	Check account balance
+-	Change pin
+-	Transfer
+-	Others
+
+-	Please select cash withdrawal using the touch screen feature on the ATM. To do so tap the part of the screen that said “Cash withdrawal”
+-	Now the machine asks to insert a debit/credit card into the designed slot. Besides the screen, there is a green light flashing with an adjacent slot to insert the card. Please insert the debit card gently in the slot. The chip on the card should be on the bottom of the card and in the opposite direction of the hand
+-	The machine now asks the amount we wish to withdraw from the account. Please enter “100.00” using the numeric keypad and press Button 1 besides the screen
+-	It’s time to validate the identity using a security passcode associated with the account. Using the numeric keypad, please enter the code which is ‘0326’ and press Button 1 to confirm
+-	The machine is asking to make the choice of bills for withdrawal, The screen displays options for $10, $20, $50, and $100 bills. Using the touch screen feature please press the “+” sign 5 times in from of the $20 bill option and then press Button 1 to confirm (this ensures we get a $100 change in the form of five $20 bills)
+-	The machine will now dispense cash from the slot right below the numeric keypad. Please collect the cash within 45 seconds after it being dispensed
+-	It is asking if we’d wish to receive a receipt for the transaction, Please use the touch screen feature to tap the option “No” on the screen
+-	Now, the machine is asking if we wish to make another transaction, Please use the touch screen feature to tap the option “No” on the screen
+-	The machine will now eject the card, which states that the transaction is complete
+-	Please take out the card from the ‘card slot’ beside the green flashing light
