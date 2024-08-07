@@ -6,10 +6,6 @@ Welcome to my technical writing portfolio! This repository showcases my work in 
 
 I am a dedicated technical writer with a strong background in creating clear, concise, and user-friendly documentation. My work spans across various industries and I have experience working with different teams to deliver high-quality technical content. I have over 7 years of experience in technical writing, content design, and information development. Expertise in structured authoring using DITA XML, Markdown, HTML, etc. to produce high-quality customer-facing technical documentation.
 
-# Achievments
-
-Content Quality Badge from IBM: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="84839a2b-2987-40c7-9912-23e6d1ca5fd1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 # Contact
 
 I am always open to feedback, collaborations, and new opportunities. Feel free to reach out to me through:
