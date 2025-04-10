@@ -4,7 +4,7 @@ Welcome to my technical writing portfolio! This repository showcases my work in 
 
 # About Me
 
-I am a dedicated technical writer with a strong background in creating clear, concise, and user-friendly documentation. My work spans across various industries and I have experience working with different teams to deliver high-quality technical content. I have over 7 years of experience in technical writing, content design, and information development. Expertise in structured authoring using DITA XML, Markdown, HTML, etc. to produce high-quality customer-facing technical documentation.
+I am a dedicated technical writer with a strong background in creating clear, concise, and user-friendly documentation. My work spans across various industries and I have experience working with different teams to deliver high-quality technical content. I have over 8 years of experience in technical writing, content design, and information development. Expertise in structured authoring using DITA XML, Markdown, HTML, etc. to produce high-quality customer-facing technical documentation.
 
 # Contact
 
