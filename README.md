@@ -1,15 +1,25 @@
 # Technical Writing Portfolio
 
-Welcome to my technical writing portfolio! This repository showcases my work in various aspects of technical writing, including user guides, manuals, admin guides, release notes, and more. Feel free to explore, provide feedback, and reach out if you have any questions or opportunities.
+Welcome to my technical writing portfolio. This repository showcases a selection of my work across user guides, admin guides, manuals, release notes, and other forms of technical documentation. The samples here reflect my approach to clarity, structure, and user-focused content design.
 
-# About Me
+Feel free to explore the repository, share feedback, or reach out if you would like to discuss my work.
 
-I am a dedicated technical writer with a strong background in creating clear, concise, and user-friendly documentation. My work spans across various industries and I have experience working with different teams to deliver high-quality technical content. I have over 8 years of experience in technical writing, content design, and information development. Expertise in structured authoring using DITA XML, Markdown, HTML, etc. to produce high-quality customer-facing technical documentation.
+## About Me
 
-# Contact
+I am a technical writer with over 8 years of experience creating clear, concise, and usable documentation for complex products. I have worked across multiple industries and collaborate closely with engineers, product managers, and designers to deliver high-quality customer-facing content.
 
-I am always open to feedback, collaborations, and new opportunities. Feel free to reach out to me through:
+My expertise includes:
+- Technical writing and content design
+- Structured authoring using DITA XML
+- Docs-as-code workflows using Markdown and Git
+- HTML-based documentation
+- Information architecture and topic-based authoring
+
+I focus on making complex systems easier to understand and easier to use.
+
+## Contact
+
+I am open to feedback, collaboration, and new opportunities. You can reach me here:
 
 - Email: dateaditya007@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adityadate/
-
