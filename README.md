@@ -1,3 +1,5 @@
+![image alt](https://github.com/dateaditya007/Technical-Writing/blob/6ddb913d99770e8fd4cc91c00c1d48a215e6fcc0/portfolioimage.png)
+
 # Technical Writing Portfolio
 
 Welcome to my technical writing portfolio. This repository showcases a selection of my work across user guides, admin guides, manuals, release notes, and other forms of technical documentation. The samples here reflect my approach to clarity, structure, and user-focused content design.
